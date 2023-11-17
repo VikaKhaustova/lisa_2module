@@ -1,36 +1,65 @@
 body {
     font-family: sans-serif;
-}header {
-    background-color: blue;
-    color: chartreuse;
 }
-h1 {
-    background-color: rgb(43, 211, 226);
-    color:rgb(0, 0, 0);
+header{
+    background-color: lavenderblush;
+    text-align: center;
+    padding: 10px;
 }
-footer {
-    background-color: blueviolet;
-    color: rgb(229, 229, 229);
+header b{
+ text-shadow: 3px 3px 3px rgb(140, 97, 156); 
+}
+
+header a{
+    background-color: rgb(226, 148, 233);
+    color:  #D8BFD8;
+    padding: 5px;
+    border: 5px double rgb(247, 109, 205);
+    border-radius: 15px;
+    text-decoration: none;
+    margin: 50px;   
+}
+header b{
+color: rgb(255, 154, 216);
+border: 3px solid	#DA70D6 ;}
+.A {
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: pink;
+}
+footer{
+    background-color: navy;
+}
+footer p{
+    background-color:blueviolet;
+    border: 10px double #8B008B ;
+    color: white;
 }
 nav{
-   
-   margin: 10px 0px;
-   text-align: center;
-   background-color: rgb(255, 0, 51);
-   padding: 20px 0px; 
-
+    text-align: center;
+    padding: 20px;
+    background-color:#FF00FF ;
 }
-
-nav a {
-
-    text-decoration: none;
-    padding-right: 60px; 
-     color: rgb(0, 0, 0);
-     
+nav a{
+     background-color: #FF69B4;
+     font-size: 15px;
+     color: black;
+     text-decoration: none;
+     border-radius: 15px;
+     padding: 5px;
+     border: 3px dotted #EE82EE ;
 }
-.item  {
-    background-color: rgb(255, 149, 0);
+.k{
+     background-color: #DA70D6;
+    padding: 15px;
+    color: cornsilk;
+    border-radius: 5px;
 }
-.max {
-    color: blue;
+.boo{
+    background-color: #FF69B4;
+}
+h2{
+    color: brown;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
