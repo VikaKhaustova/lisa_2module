@@ -2,64 +2,65 @@ body {
     font-family: sans-serif;
 }
 header{
-    background-color: lavenderblush;
+    background-color: LightGreen;
     text-align: center;
     padding: 10px;
 }
 header b{
- text-shadow: 3px 3px 3px rgb(140, 97, 156); 
+    text-shadow: 1px 1px 1px green; 
 }
 
 header a{
-    background-color: rgb(226, 148, 233);
-    color:  #D8BFD8;
+    background-color:Lime ;
+    color:  LimeGreen;
     padding: 5px;
-    border: 5px double rgb(247, 109, 205);
-    border-radius: 15px;
-    text-decoration: none;
-    margin: 50px;   
+    border: 3px double SeaGreen;
+    border-radius: 50px;
+    text-decoration: none; 
 }
-header b{
-color: rgb(255, 154, 216);
-border: 3px solid	#DA70D6 ;}
-.A {
-text-align: center;
-font-family: Georgia, 'Times New Roman', Times, serif;
-background-color: pink;
+
+h1{
+    color:DarkGreen ;
+    background-color:Chartreuse ;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family:Impact, fantasy;
 }
-footer{
-    background-color: navy;
-}
+
 footer p{
-    background-color:blueviolet;
-    border: 10px double #8B008B ;
+    background-color:LightBlue;
+    border: 10px double LightSkyBlue;
     color: white;
+    font-size: 20px;
+    font-family: Snell Roundhand, cursive;
 }
+
 nav{
     text-align: center;
     padding: 20px;
-    background-color:#FF00FF ;
+    background-color: yellow;
 }
 nav a{
-     background-color: #FF69B4;
+     background-color: lightskyblue;
      font-size: 15px;
-     color: black;
+     color: white;
      text-decoration: none;
      border-radius: 15px;
      padding: 5px;
-     border: 3px dotted #EE82EE ;
+     border: 3px dashed blue;
 }
-.k{
-     background-color: #DA70D6;
+
+.bom{
+    background-color: cadetblue;
     padding: 15px;
     color: cornsilk;
     border-radius: 5px;
+    border: 3px solid navy;
 }
-.boo{
-    background-color: #FF69B4;
-}
+
 h2{
-    color: brown;
+    color:LightSteelBlue;
     font-size: 30px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:Luminari, fantasy;
 }
